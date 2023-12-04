@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UdemyCarBook.Application.Features.CQRS.Queries
+namespace UdemyCarBook.Application.Features.CQRS.Queries.AboutQueries
 {
     public class GetAboutByIdQuery
     {

@@ -7,7 +7,7 @@ using UdemyCarBook.Application.Features.CQRS.Commands.AboutCommands;
 using UdemyCarBook.Application.Interfaces;
 using UdemyCarBook.Domain.Entities;
 
-namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandler
+namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
 {
     public class UpdateAboutCommandHandler
     {
