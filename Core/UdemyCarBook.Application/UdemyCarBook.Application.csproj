@@ -10,4 +10,8 @@
     <ProjectReference Include="..\UdemyCarBook.Domain\UdemyCarBook.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\CarInterfaces\" />
+  </ItemGroup>
+
 </Project>
